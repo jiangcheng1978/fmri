@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output data
+output/
+
+# HTML docs (generated)
+html/
+
+# Data (large binary files - DICOM and NIfTI)
+data/
+
+# Logs
+*.log
