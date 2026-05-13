@@ -105,7 +105,7 @@ ls
 
 ```bash
 # 创建虚拟环境
-uv venv .venv
+uv venv .venv --python 3.12
 
 # 激活虚拟环境
 source .venv/bin/activate
